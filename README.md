@@ -1,1 +1,1 @@
-# iagenerativa
+# ia-generativa
