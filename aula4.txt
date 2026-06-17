@@ -1,0 +1,296 @@
+Atividade 1
+
+CRAFT
+
+Para engajar e educar um público interessado em marketing digital — que geralmente busca conhecimento prático, direto e aplicável —, o ideal é traduzir os conceitos técnicos e as citações bibliográficas em um formato visual e dinâmico.
+
+Se você for apresentar o projeto construído ou criar uma landing page explicativa para esse público, aqui está a estrutura conceitual ideal para conectar a teoria acadêmica à prática de mercado:
+
+---
+
+### 1. O Funil de Conversão e a Jornada do Cliente (Os 5 As de Kotler)
+
+Para o público de marketing, o conceito precisa ser visual. Em vez de focar apenas em códigos, mostre como o comportamento do consumidor se transforma em dados dentro do funil.
+
+* **Assimilação e Atração:** O momento em que o usuário descobre o produto através de SEO ou Tráfego Pago.
+* **Arguição:** Quando ele interage, consome conteúdo do blog ou landing page, avaliando se a solução resolve sua dor.
+* **Ação e Apologia:** A conversão final (compra) e o pós-venda, onde o cliente se torna um defensor da marca.
+
+---
+
+### 2. A Conexão com o Produto (O Mindset Lean)
+
+O público de marketing digital moderno (especialmente os profissionais de *Growth Hacking* e *Product Marketing*) adora o conceito de **testes rápidos**. Explique que o marketing digital não é um gasto, mas um termômetro:
+
+1. **Construir:** Você cria uma Landing Page simples (como o arquivo `index.html` gerado).
+2. **Medir:** Você roda um anúncio e mede a taxa de cliques (CTR) e conversão.
+3. **Aprender:** Se os números forem bons, o produto é viável. Se forem ruins, você muda a abordagem (*pivota*) antes de gastar milhares de reais desenvolvendo um software que ninguém quer.
+
+---
+
+### 3. O "Santo Graal" das Métricas: LTV e CAC
+
+Profissionais de marketing digital focados em resultados (*Data-Driven Marketers*) vivem baseados em duas métricas que estão calculadas no simulador interativo que desenvolvemos:
+
+* **CAC (Custo de Aquisição de Cliente):** Quanto dinheiro em anúncios e equipe foi necessário para trazer **um** cliente pagante.
+* **LTV (Lifetime Value):** O valor total que esse cliente deixa na empresa enquanto consome o produto.
+
+> 💡 **Dica de Ouro para o seu Público:** Sempre explique a **Regra dos 3x**. Se um cliente custa R$ 10,00 para ser adquirido (CAC), ele precisa gerar pelo menos R$ 30,00 de faturamento (LTV) ao longo do tempo. Se a proporção for menor que isso, o negócio está queimando dinheiro.
+
+---
+
+### Como apresentar essa aplicação para o seu público:
+
+Se você for criar um vídeo, post ou portfólio mostrando o sistema que você hospedou na Netlify, use esta narrativa:
+
+> *"Desenvolvi um framework interativo de Marketing Digital baseado nas teses de Philip Kotler e Eric Ries. Ele conta com um simulador de Unit Economics em tempo real para que gestores de tráfego e donos de agências possam testar a viabilidade financeira de suas campanhas (LTV/CAC) antes de escalar o orçamento."*
+
+
+COSTAR
+
+
+Para chocar e engajar empreendedores iniciantes, as estratégias de marketing digital não podem ser os clichês de sempre ("poste todo dia" ou "use hashtags"). O mercado atual exige táticas disruptivas, desenhadas para hackear a atenção do público e transformar as redes sociais em canais de crescimento acelerado (*growth loops*).
+
+Aqui estão as 5 estratégias profissionais, didáticas e de alto impacto para fazer uma startup dominar as redes sociais:
+
+---
+
+## 1. O Efeito "Corta-Caminho" (Sequestro de Audiência)
+
+**Como funciona:** Em vez de construir uma audiência do zero (o que demora meses), a startup se infiltra em comunidades e canais onde os clientes ideais já estão reunidos. Isso é feito mapeando micro-influenciadores, podcasts de nicho ou criadores de conteúdo que possuem alto engajamento, mas baixa monetização.
+
+A startup não compra um "post patrocinado" tradicional; ela propõe uma **co-criação de impacto** (um produto exclusivo em conjunto, uma invasão de perfil ou um desafio gamificado).
+
+* **O Choque:** Você não precisa de milhões de seguidores; você só precisa do acesso certo à audiência de quem já passou anos construindo uma.
+
+---
+
+## 2. Conteúdo Estilo "Bastidores Sem Filtro" (*Build in Public*)
+
+**Como funciona:** O empreendedor moderno não quer ver uma marca corporativa perfeita e fria; ele se conecta com a jornada. Esta estratégia consiste em documentar e postar tudo: os erros de código, as reuniões difíceis, os desafios de logística e as vitórias da startup.
+
+Ao transformar o desenvolvimento da empresa em uma espécie de *reality show* focado em negócios, você gera o gatilho da identificação e da reciprocidade.
+
+* **O Choque:** A vulnerabilidade intencional engaja até 10 vezes mais do que um post institucional limpo e institucional. O público passa a torcer pelo sucesso da startup como se fizesse parte dela.
+
+---
+
+## 3. Distribuição em Massa Através de "Iscas de Valor Reprogramáveis"
+
+**Como funciona:** Criar publicações genéricas no Instagram ou TikTok não funciona. A startup deve criar **ferramentas ou templates gratuitos de altíssima utilidade** (ex: uma planilha financeira automatizada, um gerador de contratos simples ou um framework de Notion).
+
+Para acessar essa ferramenta, o usuário precisa seguir a página, marcar dois amigos nos comentários ou compartilhar o post.
+
+* **O Choque:** Em vez de pedir o e-mail do usuário (Inbound tradicional), a startup usa o ativo de valor para inflar o algoritmo de engajamento da rede social. O algoritmo entende a enxurrada de comentários e compartilhamentos como um sinal de relevância extrema e distribui o conteúdo organicamente para milhares de novos potenciais seguidores.
+
+---
+
+## 4. Engenharia de Memes e Tendências de Negócios (*Trend Jacking*)
+
+**Como funciona:** É a capacidade técnica de monitorar o que está viralizando na internet em tempo real (memes, áudios do TikTok, notícias do mercado) e adaptar o contexto instantaneamente para a realidade da startup e dos empreendedores iniciantes.
+
+A equipe de marketing deve ter autonomia para criar e postar em menos de uma hora após o surgimento da tendência, utilizando o humor inteligente misturado com insights de negócios.
+
+* **O Choque:** Empresas que se posicionam de forma excessivamente séria perdem o timing da atenção. Ser o primeiro a traduzir um meme do momento para o ambiente corporativo gera picos massivos de novos seguidores qualificados e compartilhamentos orgânicos.
+
+---
+
+## 5. Loops de Indicação Gamificados (*MGM - Member Get Member*)
+
+**Como funciona:** Transformar os seguidores atuais em um exército de marketing. A startup cria um sistema de pontuação ou recompensa dentro das redes sociais. Por exemplo: *"O seguidor que mais interagir, compartilhar nossos posts e trouxer amigos para a página este mês ganhará acesso gratuito vitalício ao nosso produto (ou uma mentoria exclusiva com os fundadores)"*.
+
+* **O Choque:** Essa tática transforma a audiência passiva em promotores ativos. O custo dessa recompensa costuma ser infinitamente menor do que o valor que a empresa gastaria em anúncios pagos para conseguir o mesmo volume de seguidores e impressões.
+
+---
+
+Para este grupo de empreendedores, o foco principal deve ser a execução ágil: testar uma estratégia por vez, analisar as métricas de compartilhamento (que medem a viralidade) e ajustar a rota rapidamente. Qual dessas abordagens se conecta melhor com o momento atual da startup deles?
+
+Atividade 3
+
+
+PROMPT A
+
+
+### 1. Markdown em Interfaces de Chat (ChatGPT, Claude, Gemini)
+
+Quando você digita um texto dentro de crases triplas (```) no teclado, a maioria das plataformas de IA (como ChatGPT, Claude ou o próprio Gemini) renderiza o texto exatamente com essa formatação: fundo escuro, cantos arredondados e fonte *monospace*. É um recurso usado para destacar comandos, código ou instruções específicas (conhecido como *code block*).
+
+### 2. Frameworks de Engenharia de Prompts (LangChain ou LlamaIndex)
+
+Se essa imagem foi tirada de um painel de desenvolvimento, o framework por trás pode ser o **LangChain** ou o **LlamaIndex** dentro de uma ferramenta de monitoramento (como *LangSmith*, *Phoenix* ou *PromptLayer*). Essas plataformas registram cada entrada (*input*) que o usuário envia para a API da IA exatamente dentro desses blocos cinzas para facilitar a leitura dos desenvolvedores.
+
+### 3. Ferramentas de Documentação (Notion ou Obsidian)
+
+Se você utiliza aplicativos de notas para organizar seus estudos de marketing e tecnologia, essa formatação é idêntica ao bloco de "Código" ou "Texto Formatado" do **Notion** ou do **Obsidian** configurados no modo escuro (*Dark Mode*).
+
+Se você estiver tentando replicar essa caixinha em um site ou sistema próprio (como o `index.html` que conversamos antes), o framework visual que gera esse efeito é simplesmente o **CSS puro** usando a tag `<code>` ou `<pre>`, aplicando as propriedades `background-color: #1e1e1e;`, `border-radius: 8px;` e `font-family: monospace;`.
+
+
+PROMPT B 
+
+
+O framework de engenharia de prompts aplicado aqui é o RTF (Role, Task, Format).
+
+Essa é uma das técnicas mais famosas e eficientes para estruturar ordens para inteligências artificiais. Em vez de mandar uma frase solta, você divide o comando em três blocos bem definidos para guiar a IA perfeitamente:
+
+Entendendo a anatomia do framework RTF:
+Role (Papel): Define a persona ou a especialidade que a IA deve assumir. Na imagem, você diz: Você é professor de tecnologia. (Isso muda o tom da IA para algo mais didático).
+
+Task (Tarefa): É a ação principal que precisa ser executada. Na imagem: Explique computação em nuvem.
+
+Format (Formato): Determina as regras de como a resposta deve ser entregue visualmente. Na imagem: Responda em 3 tópicos.
+
+💡 Dica Bônus de Engenharia de Prompts
+Existem variações desse mesmo framework que adicionam outras camadas para deixar as respostas ainda melhores. Se você gostar desse estilo estruturado, pode testar essas evoluções:
+
+CARE: Context (Contexto), Action (Ação), Role (Papel), Example (Exemplo).
+
+BRTR: Background (Histórico/Contexto), Role (Papel), Task (Tarefa), Requirement (Requisitos ou restrições).
+
+Esse tipo de estrutura em blocos de código (com o botão "Plain Text" e o ícone de copiar ali no canto superior direito) é excelente para criar uma "biblioteca de comandos" organizada no seu Notion, Obsidian ou nas configurações de sistema de prompts de IA (como LangChain).
+
+
+PROMPT C 
+
+
+O framework utilizado neste prompt é o **CRAFT** (ou uma variação expandida conhecida como **CRAFT+T**).
+
+Ele é uma evolução direta dos modelos anteriores, adicionando ainda mais variáveis para que a IA gere uma resposta extremamente precisa e contextualizada ao cenário do negócio.
+
+---
+
+### Anatomia do Framework na Imagem:
+
+* **C**ontext (Contexto): `Uma empresa quer migrar seus sistemas para a nuvem.` (Dá o cenário de fundo para a IA).
+* **R**ole (Papel): `Especialista em cloud computing.` (Define a autoridade e a persona).
+* **A**ction (Ação / Tarefa): `Explique vantagens da computação em nuvem.` (O comando principal).
+* **F**ormat (Formato): `Lista de 5 pontos.` (A estrutura visual da saída).
+* **T**arget (Público-Alvo): `Gestores de TI iniciantes.` (Esta é a grande chave: indica para quem o texto será escrito, fazendo com que a IA adote um tom técnico, porém acessível para quem está começando).
+
+---
+
+### Por que esse modelo é superior?
+
+Ao incluir o **Contexto** e o **Público-Alvo (Target)**, você evita que a inteligência artificial dê respostas genéricas. Em vez de explicar o que é nuvem para uma criança ou para um usuário comum, a inclusão do *Target* força a IA a usar termos e dores que fazem sentido especificamente para um gestor de TI que está liderando uma migração de infraestrutura de uma empresa.
+
+
+PROMPT D 
+
+
+Este é o framework conhecido como **COTAF** (uma variação muito popular focada em produção de conteúdo e marketing), também mapeado na literatura de engenharia de prompts como o modelo **Contexto-Objetivo-Estilo** (CEO - *Context, Objective, Style*).
+
+Ele é conceitualmente parecido com o anterior, mas muda as variáveis para focar mais na **comunicação e na identidade do texto** do que na persona (*Role*) em si.
+
+---
+
+### Anatomia do Framework Prompt D:
+
+* **Contexto:** `Uma empresa quer migrar para a nuvem.` (O cenário de fundo).
+* **Objetivo:** `Explicar benefícios da computação em nuvem.` (Equivale à *Task* ou *Action* dos outros modelos).
+* **Estilo:** `Educativo.` (Esta variável dita a abordagem pedagógica, garantindo que a IA explique os conceitos em vez de apenas listá-los de forma rasa).
+* **Tom:** `Profissional.` (Define a atmosfera da escrita: formal, corporativa e madura, sem gírias).
+* **Audiência:** `Gestores de TI.` (O público-alvo / *Target*).
+* **Formato da resposta:** `5 tópicos explicados.` (A estrutura visual final).
+
+---
+
+### A diferença sutil, mas importante:
+
+Repare que este modelo **não define um "Papel" (*Role*)** para a IA assumir (ele não diz "aja como um especialista"). Em vez disso, ele foca em moldar a **voz do texto** através do binômio **Estilo + Tom** (Educativo + Profissional).
+
+É um framework muito utilizado por redatores (*copywriters*) e gestores de conteúdo, pois garante que o texto final siga rigorosamente o guia de marca (*brand voice*) de uma empresa.
+
+
+Atividade 4
+
+
+
+
+---
+
+### 🛠️ Aplicação do Framework COSTAR
+
+* **Context (Contexto):** Escola de ensino médio/técnico quer atrair jovens estudantes para novos cursos gratuitos/acessíveis de tecnologia (Programação, Criação de Games e Inteligência Artificial).
+* **Objective (Objetivo):** Criar uma campanha de divulgação para redes sociais que quebre o mito de que tecnologia é difícil, gerando curiosidade e inscrições.
+* **Style (Estilo):** Dinâmico, visual, focado em formatos modernos de redes sociais (estilo carrossel do Instagram e roteiro rápido para Reels/TikTok).
+* **Tone (Tom):** Descontraído, animado, jovem, empático e extremamente acessível (sem termos técnicos complexos ou "juridiquês").
+* **Audience (Audiência):** Adolescentes de 14 a 18 anos que usam muito as redes sociais, gostam de internet/jogos, mas acham que programar é coisa de "gênio da matemática".
+* **Response (Resposta):** Uma campanha dividida em 3 formatos complementares de publicação prontas para uso.
+
+---
+
+### 📢 A Campanha: "Seu Celular Não É Só Pra Scrollar"
+
+#### Peça 1: Carrossel para o Instagram (Foco em quebrar objeções)
+
+*Formato visual: Imagens arrastáveis para o lado com textos curtos.*
+
+* **Slide 1 (Capa chamativa):** * *Visual:* Alguém olhando para o celular com cara de tédio.
+* *Texto grande:* Você passa o dia todo nas redes sociais... Mas já pensou em mandar nelas? 📱✨
+
+
+* **Slide 2:** * *Visual:* Memes clássicos de códigos de computação assustadores com um traço vermelho de "proibido".
+* *Texto:* "Ah, mas tecnologia precisa ser um gênio da matemática." **MENTIRA!** ❌ Se você sabe usar o TikTok, você já tem lógica o suficiente para começar.
+
+
+* **Slide 3:** * *Visual:* Ícones simples de um controle de videogame, um robô sorrindo e um aplicativo de delivery.
+* *Texto:* Tudo o que você ama no seu celular foi feito por alguém que começou do zero. Cursos novos na escola de:
+* 🕹️ **Criação de Games** (Crie seus próprios mundos)
+* 💻 **Programação Web** (Construa aplicativos e sites)
+* 🤖 **Inteligência Artificial** (Aprenda a comandar as IAs)
+
+
+
+
+* **Slide 4 (CTA / Chamada para Ação):** * *Visual:* Um botão destacado escrito "Inscreva-se".
+* *Texto:* Vagas limitadas e exclusivas para alunos da escola. O link tá na bio ou passe na secretaria para garantir seu lugar! Bora dominar o futuro? 🚀
+
+
+
+---
+
+#### Peça 2: Roteiro de Vídeo Rápido (Reels / TikTok)
+
+*Tempo estimado: 30 segundos. Ritmo acelerado.*
+
+* **[0 a 5 segundos] - O Gancho:**
+* *Cena:* O apresentador (pode ser um aluno carismático ou um professor jovem) aponta o dedo para a câmera segurando um celular.
+* *Áudio:* "Para de arrastar a tela por 5 segundos! Sabia que as pessoas que criaram esse app que você tá usando começaram na mesma idade que você tem agora?"
+
+
+* **[5 a 20 segundos] - O Conteúdo:**
+* *Cena:* Cortes rápidos mostrando a sala de computação da escola, alunos rindo e mexendo no computador, código colorido na tela.
+* *Áudio:* "A nossa escola tá abrindo inscrições para os cursos de Tecnologia mais irados do momento. Esquece aquela teoria chata de decorar comandos. Aqui você vai aprender a criar jogos de verdade, montar páginas web e usar Inteligência Artificial do jeito certo."
+
+
+* **[20 a 30 segundos] - Fechamento:**
+* *Cena:* Apresentador aponta para baixo, onde aparece o texto com as informações da escola.
+* *Áudio:* "As aulas começam no próximo mês, são de graça para quem estuda aqui, e as vagas voam. Não vai ficar de fora, né? Clica no link do perfil ou corre na secretaria!"
+
+
+
+---
+
+#### Peça 3: Legenda Padrão (Copywriting para redes sociais)
+
+> **Texto para colar na publicação:**
+> "Cansado de só consumir conteúdo? Que tal começar a CRIAR o futuro? 🛠️💻
+> A tecnologia está em tudo o que a gente faz: nos jogos que você joga, nos vídeos que você assiste e nos aplicativos que facilitam sua vida. E não, você não precisa ser um gênio dos números para aprender a dominar isso!
+> Estão abertas as inscrições para os novos cursos de **Tecnologia da Escola**! Se liga no que vem por aí:
+> 🕹️ Desenvolvimento de Games
+> 🌐 Programação de Sites e Apps
+> 🧠 Segredos da Inteligência Artificial
+> 🎒 **Quem pode fazer?** Qualquer aluno da escola que tenha curiosidade e queira aprender uma profissão que tá mudando o mundo.
+> ⏱️ **Como se inscrever?** Corre no link da nossa bio ou fala com a galera da secretaria antes que as vagas acabem.
+> Marca aqui nos comentários aquele amigo que vai fazer o curso com você! 👇🚀"
+
+
+
+Atividade 5
+
+
+Respostas:
+
+1- na minha opinião é a CRAFT, pois a mesma conseguimos fazer com que descrevemos como vamos querer o prompt mais detalhado, dando um contexto, um papel pra gente, pode pedir maneiras ou ideias de como seguir com o pensamento, pedir como queremos, podemos falar como que são os integrantes da empresa em questão de nivel de conhecimento
+2- em situações de prompts fáceis ou curtos
+3- para aplicações profissionais que podem sem usadas e bem explicativa dependendo da ocasião
